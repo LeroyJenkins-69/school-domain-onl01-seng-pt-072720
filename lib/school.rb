@@ -10,7 +10,7 @@ class School
   end
   
   def add_student(student, grade)
-    grade => student
+    :grade => student
   end
   
 end
